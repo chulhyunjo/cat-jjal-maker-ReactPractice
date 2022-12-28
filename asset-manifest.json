@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cat-jjal-maker-ReactPractice/static/css/main.2eab430d.css",
+    "main.js": "/cat-jjal-maker-ReactPractice/static/js/main.16220772.js",
+    "static/js/787.44ce1ab4.chunk.js": "/cat-jjal-maker-ReactPractice/static/js/787.44ce1ab4.chunk.js",
+    "static/media/logo.svg": "/cat-jjal-maker-ReactPractice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cat-jjal-maker-ReactPractice/index.html",
+    "main.2eab430d.css.map": "/cat-jjal-maker-ReactPractice/static/css/main.2eab430d.css.map",
+    "main.16220772.js.map": "/cat-jjal-maker-ReactPractice/static/js/main.16220772.js.map",
+    "787.44ce1ab4.chunk.js.map": "/cat-jjal-maker-ReactPractice/static/js/787.44ce1ab4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eab430d.css",
+    "static/js/main.16220772.js"
+  ]
+}
